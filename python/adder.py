@@ -6,6 +6,8 @@ def handler(context, inputs):
     outputs = {
         "result": result
     }
-    print("test1")
+    
+    print("new test1")
+    print("test2")
 
     return outputs
